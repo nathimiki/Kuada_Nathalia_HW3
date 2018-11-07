@@ -1,7 +1,7 @@
 # Kuada_Nathalia_HW3
 
 Project: Interactive Information Poster<br>
-Interactive Infographic about a Manual How to Survive a Zombie Apocalypse<br>
+Interactive Infographic about a Manual for How to Survive a Zombie Apocalypse, designed for Multimedia Authoring 2 and Eletronic Image Production (Interactive Media Design Program - Fanshawe College)<br>
 
 Author: 
 - Nathalia Miki Kuada<br>
