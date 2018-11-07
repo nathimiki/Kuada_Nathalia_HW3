@@ -10,16 +10,27 @@
 	.st4{font-family:'Impact';}
 	.st5{font-size:29px;}
 	.st6{fill:url(#XMLID_122_);}
+	.st6:hover{fill:url(#XMLID_122_); cursor:pointer;}
 	.st7{fill:none;stroke:url(#XMLID_123_);stroke-width:0.25;stroke-miterlimit:10;}
+	.st7:hover{fill:none;stroke:url(#XMLID_123_);stroke-width:0.25;stroke-miterlimit:10; cursor:pointer;}
 	.st8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st8:hover{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10; cursor:pointer;}
 	.st9{opacity:0.2;fill:url(#XMLID_124_);}
+	.st9:hover{opacity:0.2;fill:url(#XMLID_124_); cursor:pointer;}
 	.st10{fill:url(#XMLID_125_);}
+	.st10:hover{fill:url(#XMLID_125_); cursor:pointer;}
 	.st11{opacity:0.15;}
+	.st11:hover{opacity:0.15; cursor:pointer;}
 	.st12{fill:url(#XMLID_126_);}
+	.st12:hover{fill:url(#XMLID_126_); cursor:pointer;}
 	.st13{opacity:0.2;fill:url(#XMLID_127_);}
+	.st13:hover{opacity:0.2;fill:url(#XMLID_127_); cursor:pointer;}
 	.st14{fill:url(#XMLID_128_);}
+	.st14:hover{fill:url(#XMLID_128_); cursor:pointer;}
 	.st15{clip-path:url(#XMLID_129_);}
+	.st15:hover{clip-path:url(#XMLID_129_); cursor:pointer;}
 	.st16{font-size:14.4638px;}
+	.st16:hover{font-size:14.4638px; cursor:pointer;}
 	.st17{fill:#202020;}
 	.st18{fill:#E48868;}
 	.st19{fill:#3DADEA;}
@@ -30,7 +41,9 @@
 	.st24{fill:#C74749;}
 	.st25{fill:#BA745D;}
 	.st26{fill:#231F20;}
+	.st26:hover{fill:#231F20; cursor:pointer;}
 	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
+	.st27:hover{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20; cursor:pointer;}
 	.st28{font-family:'GeosansLight';}
 	.st29{font-size:18px;}
 </style>

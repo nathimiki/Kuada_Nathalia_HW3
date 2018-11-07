@@ -12,6 +12,7 @@
 	.st6{fill:#FFFFFB;}
 	.st7{fill:#025074;}
 	.st8{fill:#FCFCFC;}
+	.st8:hover{fill:#FCFCFC; cursor:pointer;}
 	.st9{fill:#999099;}
 	.st10{font-family:'GeosansLight';}
 	.st11{font-size:20px;}

@@ -12,6 +12,7 @@
 	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
 	.st7{fill:#231F20;}
 	.st8{fill:#B80F26;}
+	.st8:hover{fill:#B80F26; cursor: pointer;}
 	.st9{fill:#FFFFFF;}
 	.st10{font-family:'GeosansLight';}
 	.st11{font-size:20px;}

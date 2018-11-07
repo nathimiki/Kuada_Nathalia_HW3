@@ -6,7 +6,7 @@
 	.st0{fill:#C0C2AC;}
 	.st1{fill:none;}
 	.st2{fill:#B80F26;}
-	.st2:hover{fill:#C0C2AC;}
+	.st2:hover{fill:#C0C2AC; cursor:pointer;}
 	.st3{font-family:'Impact';}
 	.st4{font-size:43px;}
 </style>

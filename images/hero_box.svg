@@ -10,12 +10,14 @@
 	.st4{font-family:'Impact';}
 	.st5{font-size:29px;}
 	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#E4032C;}
-	.st6:hover{fill-rule:evenodd;clip-rule:evenodd;fill:#202020;}
+	.st6:hover{fill-rule:evenodd;clip-rule:evenodd;fill:#202020; cursor:pointer;}
 	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#202020;}
 	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#2113A0;}
-	.st8:hover{fill-rule:evenodd;clip-rule:evenodd;fill:#202020;}
+	.st8:hover{fill-rule:evenodd;clip-rule:evenodd;fill:#202020; cursor:pointer;}
 	.st9{fill:#2113A0;stroke:#202020;stroke-miterlimit:10;}
+	.st9:hover{fill:#2113A0;stroke:#202020;stroke-miterlimit:10; cursor:pointer;}
 	.st10{fill:#E4032C;stroke:#202020;stroke-miterlimit:10;}
+	.st10:hover{fill:#E4032C;stroke:#202020;stroke-miterlimit:10; cursor:pointer;}
 	.st11{fill:#FFFFFF;}
 	.st12{font-family:'GeosansLight';}
 	.st13{font-size:18px;}
